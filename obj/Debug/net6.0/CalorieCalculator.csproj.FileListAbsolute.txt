@@ -1,0 +1,15 @@
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\bin\Debug\net6.0\CalorieCalculator.exe
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\bin\Debug\net6.0\CalorieCalculator.deps.json
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\bin\Debug\net6.0\CalorieCalculator.runtimeconfig.json
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\bin\Debug\net6.0\CalorieCalculator.dll
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\bin\Debug\net6.0\CalorieCalculator.pdb
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\obj\Debug\net6.0\CalorieCalculator.csproj.AssemblyReference.cache
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\obj\Debug\net6.0\CalorieCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\obj\Debug\net6.0\CalorieCalculator.AssemblyInfoInputs.cache
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\obj\Debug\net6.0\CalorieCalculator.AssemblyInfo.cs
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\obj\Debug\net6.0\CalorieCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\obj\Debug\net6.0\CalorieCalculator.dll
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\obj\Debug\net6.0\refint\CalorieCalculator.dll
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\obj\Debug\net6.0\CalorieCalculator.pdb
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\obj\Debug\net6.0\CalorieCalculator.genruntimeconfig.cache
+C:\Users\Rio Mar\Documents\GitHub\CalorieCalculator\obj\Debug\net6.0\ref\CalorieCalculator.dll
